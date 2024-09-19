@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1342078,
+          32.831706799999999
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "NAME": "سكة الحديد جنوب طرابلس",
+        "NAME_EN": " ",
+        "RAILWAY": "station",
+        "STATION": " ",
+        "OSM_TYPE": "node",
+        "OSM_ID": 1170071816
+      }
+    }
+  ]
+}

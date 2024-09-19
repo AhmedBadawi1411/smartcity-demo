@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1148948,
+          32.875888500000002
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "NAME": "Under Water Club",
+        "NAME_EN": "Under Water Club",
+        "OPERATOR": " ",
+        "OSM_TYPE": "node",
+        "OSM_ID": 1695677408
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.190542600000001,
+          32.903843999999999
+        ]
+      },
+      "properties": {
+        "FID": 18,
+        "NAME": " ",
+        "NAME_EN": " ",
+        "OPERATOR": "الشركة الليبية للموانئ",
+        "OSM_TYPE": "node",
+        "OSM_ID": 9302002104
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.197769800000001,
+          32.897741799999999
+        ]
+      },
+      "properties": {
+        "FID": 21,
+        "NAME": " ",
+        "NAME_EN": " ",
+        "OPERATOR": " ",
+        "OSM_TYPE": "node",
+        "OSM_ID": 9307445506
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.195613300000002,
+          32.896687800000002
+        ]
+      },
+      "properties": {
+        "FID": 22,
+        "NAME": " ",
+        "NAME_EN": " ",
+        "OPERATOR": " ",
+        "OSM_TYPE": "node",
+        "OSM_ID": 9307445507
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.199464900000001,
+          32.901227900000002
+        ]
+      },
+      "properties": {
+        "FID": 23,
+        "NAME": " ",
+        "NAME_EN": " ",
+        "OPERATOR": " ",
+        "OSM_TYPE": "node",
+        "OSM_ID": 9307445508
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1811401,
+          32.903714100000002
+        ]
+      },
+      "properties": {
+        "FID": 24,
+        "NAME": " ",
+        "NAME_EN": " ",
+        "OPERATOR": " ",
+        "OSM_TYPE": "node",
+        "OSM_ID": 9307445509
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1908893,
+          32.903770999999999
+        ]
+      },
+      "properties": {
+        "FID": 25,
+        "NAME": " ",
+        "NAME_EN": " ",
+        "OPERATOR": " ",
+        "OSM_TYPE": "node",
+        "OSM_ID": 9312540053
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1967584,
+          32.897264300000003
+        ]
+      },
+      "properties": {
+        "FID": 26,
+        "NAME": "محطة ميناء طرابلس البحري للركاب",
+        "NAME_EN": "Tripoli sea port terminal for passengers",
+        "OPERATOR": "مصلحة المواني والنقل البحري",
+        "OSM_TYPE": "node",
+        "OSM_ID": 10614724328
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+.theme{
+    --blue-color-300:#B3FFFF;
+    --blue-color-200:#6BFFFF;
+    --blue-color-100:#5DD2FF;
+    --blue-color-400:#445565;
+    --blue-color-400-o:#445565a0;
+    
+    --btn-background:#fff;
+    
+    --light-font-color:#f5f5f5;
+    --dark-font-color:#000A11;
+    
+    --border-radius-min:4px;
+    --border-radius-mid:8px;
+    --border-radius-reg:16px;
+    --border-radius-larg:24px;
+    --border-radius-extra:32px;
+    
+    --font-size-min: 8pt;
+    --font-size-mid: 12pt;
+    --font-size-mid-reg: 14pt;
+    --font-size-reg: 16pt;
+    --font-size-mid-large: 18pt;
+    --font-size-large: 24pt;
+    --font-size-extra: 32pt;
+    --font-size-title: 42pt;
+    --font-size-subtitle: 36pt;
+
+    --padding-min:4px;
+    --padding-mid:8px;
+    --padding-reg:16px;
+    --padding-larg:24px;
+    --padding-extra:32px;
+
+}

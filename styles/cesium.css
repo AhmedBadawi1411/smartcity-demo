@@ -1,0 +1,7 @@
+.cesium-baseLayerPicker-dropDown-visible{
+    top:138px;
+    right:67px;
+    border-radius: var(--border-radius-min);
+    background-color: var(--btn-background);
+    color: var(--dark-font-color);
+}
