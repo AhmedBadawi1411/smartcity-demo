@@ -1,0 +1,25 @@
+{
+  "city_name": "Tripoli",
+  "country_code": "LY",
+  "data": [
+    {
+      "aqi": 42,
+      "co": 43.77,
+      "mold_level": 1,
+      "no2": 0,
+      "o3": 72,
+      "pm10": 40,
+      "pm25": 10,
+      "pollen_level_grass": 1,
+      "pollen_level_tree": 1,
+      "pollen_level_weed": 1,
+      "predominant_pollen_type": "Molds",
+      "so2": 1
+    }
+  ],
+  "lat": 32.8344,
+  "lon": 13.1378,
+  "state_code": "77",
+  "timezone": "Africa/Tripoli",
+  "lastSync": "Last Sync: 21/9/2024 @ 19:53:56"
+}
